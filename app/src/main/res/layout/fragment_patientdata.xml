@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+
+    <EditText
+        android:hint="Temperature"
+        android:inputType="text"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textSize="20sp"
+        android:textColor="#333"
+        android:gravity="center"
+        android:id="@+id/temp"
+
+        android:layout_above="@+id/BP"
+        android:layout_alignParentStart="true" />
+    <EditText
+        android:hint="Blood Pressure"
+        android:inputType="text"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textSize="20sp"
+        android:textColor="#333"
+        android:gravity="center"
+        android:id="@+id/BP"
+
+        android:layout_above="@+id/HR"
+        android:layout_alignParentStart="true" />
+    <EditText
+        android:hint="Heart Rate"
+        android:inputType="text"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textSize="20sp"
+        android:textColor="#333"
+        android:gravity="center"
+        android:id="@+id/HR"
+
+
+        android:layout_above="@+id/BSL"
+        android:layout_alignParentStart="true" />
+    <EditText
+        android:hint="Blood Sugar Level "
+        android:inputType="text"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textSize="20sp"
+        android:textColor="#333"
+        android:gravity="center"
+        android:id="@+id/BSL"
+
+        android:layout_centerVertical="true"
+        android:layout_alignParentStart="true"
+        />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Enter"
+        android:textSize="25sp"
+        android:textColor="#333"
+        android:background="#808080"
+
+        android:layout_below="@+id/BSL"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="91dp" />
+
+
+
+
+</RelativeLayout>

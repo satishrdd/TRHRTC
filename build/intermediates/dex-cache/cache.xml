@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\satish\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient-android\4.3.3\39ba75b570e5f1535356e8a1bf920b1c6cc83a9a\httpclient-android-4.3.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="39ba75b570e5f1535356e8a1bf920b1c6cc83a9a">
+        <dex dex="C:\Users\satish\AndroidStudioProjects\AndroidRTC-master\app\build\intermediates\pre-dexed\release\httpclient-android-4.3.3-b14a6195c12c4baa2380edaf967102f218d44bcd.jar" />
+    </item>
+    <item
+        jar="C:\Users\satish\AndroidStudioProjects\AndroidRTC-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.0\jars\libs\internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="C:\Users\satish\AndroidStudioProjects\AndroidRTC-master\app\build\intermediates\pre-dexed\release\internal_impl-22.1.0-a60e090c43e7b1a2946d2135268f8b9f64768175.jar" />
+    </item>
+    <item
+        jar="C:\Users\satish\AndroidStudioProjects\AndroidRTC-master\app\build\intermediates\exploded-aar\io.pristine\libjingle\9694\jars\libs\libjingle_peerconnection.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0534156c273fbecc84a9e895fc0cd9717930968c">
+        <dex dex="C:\Users\satish\AndroidStudioProjects\AndroidRTC-master\app\build\intermediates\pre-dexed\release\libjingle_peerconnection-575be5490da5a0abdc35111cbc006414db318c9e.jar" />
+    </item>
+    <item
+        jar="C:\Users\satish\.gradle\caches\modules-2\files-2.1\com.pubnub\pubnub-android\3.7.4\c02cccf01db17087381def915810bf65979a4d28\pubnub-android-3.7.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c02cccf01db17087381def915810bf65979a4d28">
+        <dex dex="C:\Users\satish\AndroidStudioProjects\AndroidRTC-master\app\build\intermediates\pre-dexed\release\pubnub-android-3.7.4-da534be0933833d98a0e7c4887f55e76a4735faf.jar" />
+    </item>
+    <item
+        jar="C:\Users\satish\AndroidStudioProjects\AndroidRTC-master\usbserial.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="270f48d80a2a28c193840e18c520ce298eafe6d1">
+        <dex dex="C:\Users\satish\AndroidStudioProjects\AndroidRTC-master\app\build\intermediates\pre-dexed\release\usbserial-1c926246e0d759749e65cbb5324d5239773437fb.jar" />
+    </item>
+    <item
+        jar="C:\Users\satish\AndroidStudioProjects\AndroidRTC-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="C:\Users\satish\AndroidStudioProjects\AndroidRTC-master\app\build\intermediates\pre-dexed\release\classes-595654cc3d06fbd1a73839dd7cc302f9a332eea6.jar" />
+    </item>
+    <item
+        jar="C:\Users\satish\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.1.0\support-annotations-22.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="C:\Users\satish\AndroidStudioProjects\AndroidRTC-master\app\build\intermediates\pre-dexed\release\support-annotations-22.1.0-2732e53ff3098948f1b0afd2e7035330077c4f70.jar" />
+    </item>
+    <item
+        jar="C:\Users\satish\AndroidStudioProjects\AndroidRTC-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="983e2f375504bc04def18e709c35192afe92e65f">
+        <dex dex="C:\Users\satish\AndroidStudioProjects\AndroidRTC-master\app\build\intermediates\pre-dexed\release\classes-af27462a55efb496ee5f529d5ad70def27fd6c4c.jar" />
+    </item>
+    <item
+        jar="C:\Users\satish\AndroidStudioProjects\AndroidRTC-master\app\build\intermediates\exploded-aar\AndroidRTC-master\pnwebrtc\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27ddd3f258074dc47584b621946fb394975c4c15">
+        <dex dex="C:\Users\satish\AndroidStudioProjects\AndroidRTC-master\app\build\intermediates\pre-dexed\release\classes-99a2f59ada29704bca2c1bb1467050b642995839.jar" />
+    </item>
+
+</items>

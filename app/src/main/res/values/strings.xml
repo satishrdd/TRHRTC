@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidRTC</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_video_chat">Video Call</string>
+    <string name="title_activity_incoming_call">Incoming Call</string>
+
+    <string name="title_activity_login">TRH</string>
+    <string name="login">Choose a username:</string>
+    <string name="username">Username</string>
+    <string name="login_submit">Sign in!</string>
+
+    <string name="enter_new_channel">Enter new channel:</string>
+    <string name="action_sign_out">Sign Out</string>
+    <string name="here_now">Here Now:</string>
+    <string name="no_call_history">No call History\n\nRecent calls appear here.</string>
+
+    <!-- Incoming Call Activity -->
+    <string name="incoming_call">Incoming Call&#8230;</string>
+    <string name="incoming_call_from">Kevin Gleason</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Video Call</item>
+        <item>Patient Data</item>
+        <item>Message</item>
+        <item>Logout</item>
+        <item>Dummy</item>
+    </string-array>
+
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/rsz_ic_home</item>
+        <item>@drawable/rsz_ic_video</item>
+        <item>@drawable/rsz_ic_patient</item>
+        <item>@drawable/rsz_ic_message</item>
+        <item>@drawable/rsz_ic_logout</item>
+        <item>@drawable/ic_whats_hot</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="default_text_string">No data</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="permission_denied">Permission denied!</string>
+    <string name="receiving">Receiving!</string>
+    <string name="opening_device_failed">Opening USB device failed!</string>
+    <string name="claimning_interface_failed">Claiming interface failed!</string>
+    <string name="no_in_endpoint_found">No in endpoint found!</string>
+    <string name="no_out_endpoint_found">No out endpoint found!</string>
+    <string name="no_extra_in_intent">No %1$s extra in intent!</string>
+    <string name="device_detaches">Device detached!</string>
+    <string name="no_device_found">No device found!</string>
+    <string name="found">found!</string>
+</resources>
