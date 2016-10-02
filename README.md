@@ -1,4 +1,4 @@
-##TRHRTC(Telepresence Robot System):
+## TRHRTC(Telepresence Robot System):
 - The   primary   objective   of   our   TelePresence   Robot   System   is   to   aid   the   doctors   to  
 remotely   monitor   in­patients   through   telepresence   robots   located   in   the   hospital.
 
@@ -25,6 +25,25 @@ remotely   monitor   in­patients   through   telepresence   robots   located   
 
 
 # Usage Instructions :
+- For a new doctor to connect to the application and start using, he/she must first register.
+ ![signup page]({{site.baseurl}}//abc.png)
+-  After registration he/she must login.
+  ![login page]({{site.baseurl}}//def.png)
+-  The panel on the left shows the list of all available TRH
+  ![main page]({{site.baseurl}}//trh.png)
+-  To connect to a particular peer he/she must click on the peer and click ok when the prompt 
+- appears
+- The browser asks for permission to use the webcam. Granting it permission will allow the 
+- application to use the webcam and microphone, thereby enabling the doctor to call the TRH.
+ ![call page]({{site.baseurl}}//trh1.png)
+- The Up ,Down ,Left ,Right Buttons can be clicked to control the robot movements which is located  in 
+- remote area far from doctor. 
+- These buttons when clicked will go as a chat message to the app and will parsed accordingly and 
+- appropriate message will be sent to arduino over bluetooth.
+ ![bluetooht]({{site.baseurl}}//bth.png)
+- We Tested the communication Web­>WebRTC­>Android­>Bluetooth­>Arduino using Led Lights on 
+- BreadBoard and have successfully achieved it with minimal delay.
+
 
 
 
